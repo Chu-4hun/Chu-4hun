@@ -1,6 +1,5 @@
 ### Hi there 👋, Im Chu-4hun
 #### im a student and learn C#
-![im a student and learn C#](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Student, want to get in to gamedev.👾
 Study in MPT👨‍👨‍👦
