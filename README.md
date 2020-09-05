@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Im Chu-4hun
+#### im a student and learn C#
+![im a student and learn C#](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Chu-4hun/Chu-4hun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student, want to get in to gamedev.👾
+Study in MPT👨‍👨‍👦
+Work together with @StounhandJ in @MPT-P50-6-19 🐱‍👤
 
-Here are some ideas to get you started:
+Skills: C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning c# 
+- 📫 How to reach me: attack helecopter 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chu-4hun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chu_chun008/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/dhlud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Chu_4hun)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chu-4hun&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Chu-4hun)  
