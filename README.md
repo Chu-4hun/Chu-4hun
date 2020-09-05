@@ -1,4 +1,4 @@
-### Hi there 👋, Im Chu-4hun
+### Hello,✋ Im Chu-4hun
 #### im a student and learn C#
 
 Student, want to get in to gamedev.👾
