@@ -7,7 +7,7 @@ Work together with @StounhandJ in @MPT-P50-6-19 🐱‍👤
 
 Skills: C#
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my homework. 
 - 🌱 I’m currently learning c# 
 - 📫 How to reach me: attack helecopter 
 
