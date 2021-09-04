@@ -2,7 +2,7 @@
 #### im a student and learn C# C++ Python
 
 Student, want to get in to gamedev.👾
-Study in MPT👨‍👨‍👦
+Study in [MPT](https://github.com/MPT-P50-6-19)👨‍👨‍👦
 
 
 
