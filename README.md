@@ -1,5 +1,5 @@
 ### Hello,✋ Im Chu-4hun
-#### im a student and learn C#
+#### im a student and learn C# C++ Python
 
 Student, want to get in to gamedev.👾
 Study in MPT👨‍👨‍👦
