@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chu-4hun&label=Profile%20views&color=0e75b6&style=flat" alt="chu-4hun" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **C#, Unity**
 
 - 📫 How to reach me **hludencovdan@mail.ru**
 
