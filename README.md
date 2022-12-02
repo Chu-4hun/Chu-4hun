@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chu-4hun (Dan)</h1>
 <h3 align="center">Student, want to get into gamedev and mobile development</h3>
-<p align="center"> <img src="https://www.codewars.com/users/Chu-4hun/badges/large" alt="chu-4hun" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chu-4hun&label=Profile%20views&color=0e75b6&style=flat" alt="chu-4hun" /> </p>
+<a href="https://www.codewars.com/users/Chu-4hun"><p align="center"> <img src="https://www.codewars.com/users/Chu-4hun/badges/large" alt="chu-4hun" /> </p></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chu-4hun&label=Profile%20views&color=0e75b6&style=flat" alt="chu-4hun" /> </p></a>
 
 <p align="left"> <a href="https://twitter.com/chu_4hun" target="blank"><img src="https://img.shields.io/twitter/follow/chu_4hun?logo=twitter&style=for-the-badge" alt="chu_4hun" /></a> </p>
 
