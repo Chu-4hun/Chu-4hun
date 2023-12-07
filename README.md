@@ -8,7 +8,7 @@
 
 - 🌱 **I’m currently learning Actix Web Rust**
 
-- 📫 How to reach me **hludencovdan@mail.ru**
+- 📫 How to reach me **dan.belocur@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
