@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chu-4hun</h1>
-<h2 align="center">My name is Dan Belocurov (Chu-4hun)</h3>
+<h2 align="center">My name is Dan Belocurov</h3>
 <!-- <a href="https://www.codewars.com/users/Chu-4hun"><p align="center"> <img src="https://www.codewars.com/users/Chu-4hun/badges/large" alt="chu-4hun" /> </p></a> -->
 
 <h3 align="left">Connect with me:</h3>
