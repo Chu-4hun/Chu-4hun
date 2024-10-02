@@ -58,11 +58,5 @@
   <img src="https://profile-counter.glitch.me/Chu-4hun/count.svg?"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chu-4hun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chu-4hun&radius=16&theme=nord&area=true&order=5" height="200" alt="activity-graph graph"  /> -->
-</div>
 
-###
