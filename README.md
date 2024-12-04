@@ -54,8 +54,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/Chu-4hun/count.svg?"  />
+<div align="center">
+  <img height="80" src="https://count.chiya.dev/get/@:Chu_4hun?theme=gelbooru" alt=":name" />
 </div>
 
 
